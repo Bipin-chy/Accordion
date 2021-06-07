@@ -12,7 +12,7 @@
     margin-bottom: 5px;
 }
 
-.accordion >h4 >span{
+.accordion > h4{
     margin-right: 10px;
     cursor: pointer;
 }
